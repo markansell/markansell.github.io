@@ -11,13 +11,13 @@ page_sections:
     link_text: Home
   - link: "#about"
     link_text: About
-  - link: "#resume"
-    link_text: Resume
+  - link: "#projects"
+    link_text: Projects
   - link: "#contact"
     link_text: Contact
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    button_text: Resume
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
