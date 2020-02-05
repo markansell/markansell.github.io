@@ -20,13 +20,13 @@ page_sections:
     button_text: Resume
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: hello,<br>I'm <strong>Mark</strong>
+  content: Program Manager at Microsoft Devices, engineering and business graduate
+    from UC Berkeley, identical twin, and global citizen.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: Learn More
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
