@@ -9,12 +9,12 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "#about"
+    link_text: About
+  - link: "#resume"
+    link_text: Resume
+  - link: "#contact"
+    link_text: Contact
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
