@@ -50,7 +50,7 @@ page_sections:
     from economic inequality \U0001F4B0 to climate change \U0001F30E.<br><br>I'm also
     an identical twin (I'm on the left!)."
   media:
-    image: "/uploads/2020/02/06/IMG_0628-1.jpg"
+    image: "/uploads/2020/02/06/IMG_0628.jpg"
     alt_text: Mark Ansell and Andrew Ansell, The Tech Twins
 
 ---
