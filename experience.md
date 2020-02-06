@@ -50,7 +50,7 @@ page_sections:
   headline: Engineering Program Manager Intern<br><strong>Apple</strong>
   content: January 2017 - August 2017
   media:
-    image: ''
+    image: "/uploads/2020/02/06/IMG_3478.jpg"
     alt_text: ''
 
 ---
