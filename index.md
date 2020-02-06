@@ -33,17 +33,6 @@ page_sections:
     image: "/uploads/2020/02/06/hello-1.jpg"
     alt_text: Mark Ansell Headshot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Conscious
-    content: ''
-  col_2:
-    headline: Creative
-    content: ''
-  col_3:
-    headline: Compassionate
-    content: ''
 - template: simple-footer
   block: footer-1
   content: "Thanks for visiting! \U0001F60A"
