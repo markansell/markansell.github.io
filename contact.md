@@ -12,11 +12,11 @@ page_sections:
   navigation:
   - link: ''
     link_text: Home
-  - link: ''
+  - link: "/projects"
     link_text: Projects
-  - link: ''
+  - link: "/experience"
     link_text: Experience
-  - link: ''
+  - link: "/contact"
     link_text: Contact
 - template: hero-banner-w-image
   block: hero-2
