@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Homepage
-date: 2017-11-22 23:00:00 +0000
+title: Home
+date: 2020-02-06 03:35:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -55,14 +55,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: "Thanks for visiting! \U0001F60A"
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/02/06/IMG_4134 2.jpg"
-    caption: ''
-  image_2:
-    image: "/uploads/2020/02/06/IMG_4968 2.JPG"
-    caption: ''
 
 ---
 foo bar
