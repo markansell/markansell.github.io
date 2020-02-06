@@ -10,7 +10,7 @@ page_sections:
     button_text: Resume
     url: ''
   navigation:
-  - link: ''
+  - link: "/home"
     link_text: Home
   - link: "/about"
     link_text: About
