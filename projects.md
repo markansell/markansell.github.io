@@ -6,11 +6,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
-  content: ''
+  headline: Gro - The Gardening Robot
+  content: For the senior capstone mechatronics design course [ME102B] in UC Berkeley's
+    Mechanical Engineering curriculum, my team and I designed a robot that autonomously
+    takes care of your plants. The robot plants seeds and waters them based on soil
+    moisture readings.
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2020/02/06/DSC_4448.jpeg"
+    alt_text: Gro, The Gardening Robot - ME102B UC Berkeley
 - template: content-feature
   block: feature-1
   media_alignment: Right
