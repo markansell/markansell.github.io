@@ -35,7 +35,7 @@ page_sections:
     title=\"TEDx talk\">TEDx talk</a>.<br><br>I'm interested in innovative hardware
     product development because, when I was younger, a computer allowed me to aspire
     towards a career in engineering. Coming from a family of non-engineers and being
-    first in my family to attend college in the U.S., I would watch video of leaders
+    first in my family to attend college in the U.S., I would watch videos of leaders
     who inspired me, such as Steve Jobs and Oprah Winfrey, as motivation.<br><br>Fostering
     an international perspective is important to me, as a child of two immigrants
     - my mom Armenian from Beirut, Lebanon and my dad a Kiwi from New Zealand. At
