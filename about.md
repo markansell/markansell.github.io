@@ -10,7 +10,6 @@ page_sections:
   media:
     image: "/uploads/2020/02/06/IMG_7042.jpeg"
     alt_text: ''
-  content: ''
-published: false
+  content: B.S. Mechanical Engineering and B.S. Business Administration from UC Berkeley.
 
 ---
