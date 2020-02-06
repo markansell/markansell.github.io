@@ -7,13 +7,13 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/02/05/MA PW Logo Simple.png"
   navigation:
-  - link: "/"
+  - link: "/home"
     link_text: Home
-  - link: "#about"
+  - link: "/about"
     link_text: About
-  - link: "#projects"
+  - link: "/projects"
     link_text: Projects
-  - link: "#contact"
+  - link: "/contact"
     link_text: Contact
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
