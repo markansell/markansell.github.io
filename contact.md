@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Contact
+title: Let's chat
 date: 2020-02-06 08:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
