@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "/home"
     link_text: Home
+  - link: "/about"
+    link_text: About
   - link: "/projects"
     link_text: Projects
   - link: "/experience"
@@ -23,7 +25,7 @@ page_sections:
   media_alignment: Right
   headline: Education
   media:
-    image: "/uploads/2020/02/06/Headshot-1.jpg"
+    image: "/uploads/2020/02/06/123.JPG"
     alt_text: ''
   content: "Hello! \U0001F44B Thanks for visiting my home on the internet. <br><br>I'm
     Mark and I'm interested in using my experiences to positively impact the world.
