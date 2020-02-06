@@ -35,11 +35,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>About</strong>"
-  content: "Welcome to my personal website! The goal of this website is to show you
-    more about who I am.<br><br><strong>Education</strong><br>UC Berkeley<br>\U0001F393
-    B.S. Mechanical Engineering<br>\U0001F393 B.S. Business Administration<br><br><strong>Work
-    Experience</strong><br>Program Manager, Microsoft Devices<br>2x Program Manager
-    intern, Microsoft Devices<br>1x Engineering Program Manager intern, Apple, Mac<br><br><strong>Extracurricular</strong><br>\U0001F4F8
+  content: "Welcome to my personal website! <br><br><strong>Education</strong><br>UC
+    Berkeley<br>\U0001F393 B.S. Mechanical Engineering<br>\U0001F393 B.S. Business
+    Administration<br><br><strong>Work Experience</strong><br>Program Manager, Microsoft
+    Devices<br>2x Program Manager intern, Microsoft Devices<br>1x Engineering Program
+    Manager intern, Apple, Mac<br><br><strong>Extracurricular</strong><br>\U0001F4F8
     TheTechTwins - YouTube channel to inspire and prepare students to work in the
     technology industry.<br>\U0001F5E3 Momentum Speaker Series - Student speaker series
     designed to helps students gain momentum in their careers through advice from
@@ -52,6 +52,9 @@ page_sections:
   media:
     image: "/uploads/2020/02/06/IMG_0628.jpg"
     alt_text: Mark Ansell and Andrew Ansell, The Tech Twins
+- template: simple-footer
+  block: footer-1
+  content: "Thanks for visiting! \U0001F60A"
 
 ---
 foo bar
