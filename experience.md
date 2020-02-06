@@ -34,7 +34,7 @@ page_sections:
   headline: Program Manager Intern<br><strong>Microsoft Devices</strong>
   content: May 2019 - August 2019
   media:
-    image: ''
+    image: "/uploads/2020/02/06/IMG_0298.JPG"
     alt_text: ''
 - template: content-feature
   block: feature-1
