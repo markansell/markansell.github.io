@@ -9,11 +9,11 @@ page_sections:
   navigation:
   - link: "/home"
     link_text: Home
-  - link: "/about"
+  - link: https://pngrdlsuofqswq.instant.forestry.io/about
     link_text: About
-  - link: "/projects"
+  - link: https://pngrdlsuofqswq.instant.forestry.io/projects
     link_text: Projects
-  - link: "/contact"
+  - link: https://pngrdlsuofqswq.instant.forestry.io/contact
     link_text: Contact
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
