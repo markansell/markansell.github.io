@@ -10,7 +10,7 @@ page_sections:
     image: ''
     alt_text: ''
   headline: Contact
-  content: ''
+  content: Hi
   cta:
     enabled: false
     url: mailto:markgansell@gmail.com
