@@ -34,5 +34,6 @@ fields:
 pages:
 - about.md
 - contact.md
+- experience.md
 - index.md
 - projects.md
