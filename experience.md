@@ -26,7 +26,7 @@ page_sections:
   headline: Program Manager<br><strong>Microsoft Devices</strong>
   content: February 2020 - Present
   media:
-    image: ''
+    image: "/uploads/2020/02/06/IMG_4741.HEIC"
     alt_text: ''
 - template: content-feature
   block: feature-1
