@@ -38,17 +38,19 @@ page_sections:
   content: "Welcome to my personal website! The goal of this website is to show you
     more about who I am.<br><br><strong>Education</strong><br>UC Berkeley<br>\U0001F393
     B.S. Mechanical Engineering<br>\U0001F393 B.S. Business Administration<br><br><strong>Work
-    Experience</strong><br>\U0001F468‍\U0001F4BB PM, Microsoft Devices<br>\U0001F468‍\U0001F4BB
-    2x PM intern, Microsoft Devices<br>\U0001F468‍\U0001F4BB 1x PM intern, Apple<br><br><strong>Extracurricular</strong><br>\U0001F4F8
+    Experience</strong><br>Program Manager, Microsoft Devices<br>2x Program Manager
+    intern, Microsoft Devices<br>1x Engineering Program Manager intern, Apple, Mac<br><br><strong>Extracurricular</strong><br>\U0001F4F8
     TheTechTwins - YouTube channel to inspire and prepare students to work in the
     technology industry.<br>\U0001F5E3 Momentum Speaker Series - Student speaker series
     designed to helps students gain momentum in their careers through advice from
-    peers.<br>\U0001F4E3 TEDxTrinityCollegeDublin 2018 student speaker<br><br>I'm
-    interested in leveraging the intersection of engineering and business to solve
-    some of the world's largest problems, ranging from economic inequality \U0001F4B0
-    to climate change \U0001F30E.<br><br>I'm also an identical twin (I'm on the left!)."
+    peers.<br><br><strong>Global Interest</strong><br>\U0001F1EE\U0001F1EA Study abroad,
+    Trinity College Dublin, Ireland<br>\U0001F1E6\U0001F1F2 Half Lebanese-Armenian<br>\U0001F1F3\U0001F1FF
+    Dual citizen with New Zealand<br><br>I'm interested in leveraging the intersection
+    of engineering and business to solve some of the world's largest problems, ranging
+    from economic inequality \U0001F4B0 to climate change \U0001F30E.<br><br>I'm also
+    an identical twin (I'm on the left!)."
   media:
-    image: "/uploads/2020/02/06/IMG_0628.jpg"
+    image: "/uploads/2020/02/06/IMG_0628-1.jpg"
     alt_text: Mark Ansell and Andrew Ansell, The Tech Twins
 
 ---
