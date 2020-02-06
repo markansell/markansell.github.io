@@ -7,16 +7,18 @@ page_sections:
   block: header-2
   navigation:
   - link_text: Home
-    link: ''
+    link: "/home"
   - link_text: About
-    link: ''
+    link: "/about"
   - link_text: Projects
-    link: ''
+    link: "/projects"
+  - link: "/experience"
+    link_text: Experience
   - link_text: Contact
-    link: ''
+    link: "/contact"
   cta:
     button_text: Resume
-    url: ''
+    url: https://pngrdlsuofqswq.instant.forestry.io/uploads//2020/02/06/mark-ansell-resume-2019.pdf
   logo: "/uploads/2020/02/05/MA PW Logo Simple.png"
 - template: content-feature
   block: feature-1
