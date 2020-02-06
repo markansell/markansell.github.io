@@ -28,7 +28,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Learn More
   image:
-    image: "/uploads/2020/02/06/1"
+    image: "/uploads/2020/02/06/1.jpg"
     alt_text: Mark Ansell Headshot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
