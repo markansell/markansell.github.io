@@ -36,7 +36,8 @@ page_sections:
     a computer allowed me to aspire towards a career in engineering. I would watch
     video of leaders who inspired me, such as Steve Jobs and Oprah Winfrey, as motivation.<br><br>I'm
     a recent graduate of UC Berkeley, where I pursued simultaneous Bachelor of Science
-    degrees in Mechanical Engineering and Business Administration. I am interested
-    in continued education in the future."
+    degrees in Mechanical Engineering and Business Administration. I am currently
+    a Program Manager for the mechanical engineering development of a new Surface
+    computer at Microsoft."
 
 ---
