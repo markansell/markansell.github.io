@@ -24,7 +24,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: Contact
+  headline: "Let's chat \U0001F4AC"
   content: "If you're interested in reaching out, please include some questions and
     click below. \U0001F447"
   cta:
