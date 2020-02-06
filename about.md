@@ -34,10 +34,13 @@ page_sections:
     development at Apple and Microsoft, and public speaking through a TEDx talk.<br><br>I'm
     interested in innovative hardware product development because, when I was younger,
     a computer allowed me to aspire towards a career in engineering. I would watch
-    video of leaders who inspired me, such as Steve Jobs and Oprah Winfrey, as motivation.<br><br>I'm
-    a recent graduate of UC Berkeley, where I pursued simultaneous Bachelor of Science
-    degrees in Mechanical Engineering and Business Administration. I am currently
-    a Program Manager for the mechanical engineering development of a new Surface
-    computer at Microsoft."
+    video of leaders who inspired me, such as Steve Jobs and Oprah Winfrey, as motivation.<br><br>Fostering
+    an international perspective is important to me, as a child of two immigrants
+    - my mom Armenian from Beirut, Lebanon and my dad a Kiwi from New Zealand. At
+    Cal, I studied abroad for 5 months at Trinity College Dublin in Ireland. With
+    Microsoft, I've travelled to China.<br><br>I'm a recent graduate of UC Berkeley,
+    where I pursued simultaneous Bachelor of Science degrees in Mechanical Engineering
+    and Business Administration. I am currently a Program Manager for the mechanical
+    engineering development of a new Surface computer at Microsoft."
 
 ---
