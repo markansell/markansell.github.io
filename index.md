@@ -27,7 +27,7 @@ page_sections:
     graduate from UC Berkeley, identical twin, and global citizen.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: "/about"
     button_text: Learn More
   image:
     image: "/uploads/2020/02/06/hello-1.jpg"
