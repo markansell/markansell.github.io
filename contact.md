@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Let's chat
+title: Contact
 date: 2020-02-06 08:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -12,6 +12,8 @@ page_sections:
   navigation:
   - link: ''
     link_text: Home
+  - link: "/about"
+    link_text: About
   - link: "/projects"
     link_text: Projects
   - link: "/experience"
