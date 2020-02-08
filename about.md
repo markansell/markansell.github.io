@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/02/05/MA PW Logo Simple.png"
   navigation:
-  - link: "/home"
+  - link: "/"
     link_text: Home
   - link: "/about"
     link_text: About
