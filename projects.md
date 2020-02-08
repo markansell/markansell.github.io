@@ -42,7 +42,7 @@ page_sections:
     [EE49] at UC Berkeley, my partner and I built an IoT baton that varies the speed
     of '
   media:
-    image: ''
+    image: "/uploads/2020/02/08/IMG_1754.TRIM.mov"
     alt_text: ''
 - template: content-feature
   block: feature-1
