@@ -51,7 +51,7 @@ page_sections:
   content: For the Introduction to Product Development course [ME110] at UC Berkeley,
     my team and I developed a temperature-regulating thermos.
   media:
-    image: ''
+    image: "/uploads/2020/02/08/Screen Shot 2020-01-24 at 7.55.22 PM.png"
     alt_text: ''
 
 ---
