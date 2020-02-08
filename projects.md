@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   navigation:
   - link_text: Home
-    link: "/home"
+    link: "/"
   - link_text: About
     link: "/about"
   - link_text: Projects
@@ -26,8 +26,11 @@ page_sections:
   headline: Gro - The Gardening Robot
   content: For the senior capstone mechatronics design course [ME102B] in UC Berkeley's
     Mechanical Engineering curriculum, my team and I designed a robot that autonomously
-    takes care of your plants. The robot plants seeds and waters them based on soil
-    moisture readings.
+    takes care of your plants. <br><br>We designed, prototyped, and built an app-based
+    automatic gardening plant bed that plants seeds and waters them based on soil
+    moisture sensors. We integrated stepper motors, a pump, capacitive soil moisture
+    sensors, limit switches, a Raspberry Pi, and an Arduino. Used 3D printers and
+    laser cutters.
   media:
     image: "/uploads/2020/02/06/DSC_4448.jpeg"
     alt_text: Gro, The Gardening Robot - ME102B UC Berkeley
