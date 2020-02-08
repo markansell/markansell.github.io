@@ -10,7 +10,7 @@ page_sections:
     button_text: Resume
     url: https://pngrdlsuofqswq.instant.forestry.io/uploads//2020/02/06/mark-ansell-resume-2019.pdf
   navigation:
-  - link: "/home"
+  - link: "/"
     link_text: Home
   - link: "/about"
     link_text: About
