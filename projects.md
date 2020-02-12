@@ -36,7 +36,7 @@ page_sections:
     alt_text: Gro, The Gardening Robot - ME102B UC Berkeley
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Image-Based PID Control of a Ping Pong Ball
   content: Final project for experimentation &amp; measurements course [ME103].<br><br>Performed
     tests to understand if image-based PID control of a fan could achieve descent
