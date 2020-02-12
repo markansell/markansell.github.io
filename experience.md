@@ -23,7 +23,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Mechanical Engineering Program Manager<br><strong>Microsoft Devices</strong>
+  headline: Program Manager - Mechanical Engineering<br><strong>Microsoft Devices</strong>
   content: February 2020 - Present<br>
   media:
     image: "/uploads/Mark Ansell PM Microsoft.jpeg"
@@ -31,7 +31,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Mechanical Engineering Program Manager Intern<br><strong>Microsoft Devices</strong>
+  headline: Program Manager Intern - Mechanical Engineering<br><strong>Microsoft Devices</strong>
   content: May 2019 - August 2019
   media:
     image: "/uploads/2020/02/06/IMG_0298.JPG"
@@ -39,7 +39,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Strategic Sourcing Intern<br><strong>Microsoft Devices</strong>
+  headline: Program Manager Intern - Strategic Sourcing<br><strong>Microsoft Devices</strong>
   content: May 2018 - August 2018
   media:
     image: "/uploads/2020/02/06/IMG_4662.JPG"
@@ -47,7 +47,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Engineering Program Manager Intern<br><strong>Apple</strong>
+  headline: Engineering Program Manager Intern - Macintosh<br><strong>Apple</strong>
   content: January 2017 - August 2017<br>
   media:
     image: "/uploads/2020/02/06/IMG_3478.jpg"
