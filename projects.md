@@ -59,7 +59,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: The Super Conductor
+  headline: 'SuperConductor: Smart IoT Baton'
   content: For the introduction to electronics for the internet of things course [EE49]
     at UC Berkeley, my partner Jonathan and I created a device to help conductors
     practice without a full orchestra. <br><br>The Super Conductor is an electronic
