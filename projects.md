@@ -48,7 +48,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: Computing Pressure Flow Through a Human Heart
   content: Used the Finite Element Method to compute the pressure field through a
     human heart using measurements of the velocity field spanning an entire cardiac
