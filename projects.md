@@ -62,7 +62,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: 3D Printed Windmill
   media:
     image: "/uploads/Windmill.jpeg"
