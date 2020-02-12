@@ -38,9 +38,12 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: The Super Conductor
-  content: 'For the introduction to electronics for the internet of things course
-    [EE49] at UC Berkeley, my partner and I built an IoT baton that varies the speed
-    of '
+  content: For the introduction to electronics for the internet of things course [EE49]
+    at UC Berkeley, my partner Jonathan and I created a device to help conductors
+    practice without a full orchestra. <br><br>The Super Conductor is an electronic
+    conductor’s baton which can manipulate the tempo of music in real-time based on
+    the user’s conducting speed. It uses an ESP32 microcontroller, and MPU9250 sensor
+    to collect and send data to the internet via MQTT.
   media:
     image: "/uploads/2020/02/08/IMG_1754.TRIM.mov"
     alt_text: ''
