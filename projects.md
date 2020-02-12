@@ -64,7 +64,7 @@ page_sections:
     at UC Berkeley, my partner Jonathan and I created a device to help conductors
     practice without a full orchestra. <br><br>The Super Conductor is an electronic
     conductor’s baton which can manipulate the tempo of music in real-time based on
-    the user’s conducting speed. It uses an ESP32 microcontroller, and MPU9250 sensor
+    the user’s conducting speed. It uses an ESP32 microcontroller and a MPU9250 sensor
     to collect and send data to the internet via MQTT.
   media:
     image: "/uploads/2020/02/08/IMG_1754.TRIM.mov"
