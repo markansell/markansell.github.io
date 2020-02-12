@@ -60,5 +60,17 @@ page_sections:
   media:
     image: "/uploads/Clima Cup.jpeg"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: 3D Printed Windmill
+  media:
+    image: "/uploads/Windmill.jpeg"
+    alt_text: ''
+  content: 'Worked in a team of 5 to design and fabricate a wind turbine, which included
+    the rotor blades, support tower and generator housing.<br><br>The professor specified
+    the following constraints: volume of material no more than 20 cubic inches, fabrication
+    solely through 3D printing, and distance between the top of the platform and the
+    center of the motor shaft to not exceed 16.00 +- 1/16 inch.'
 
 ---
