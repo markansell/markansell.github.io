@@ -26,7 +26,7 @@ page_sections:
   headline: Program Manager<br><strong>Microsoft Devices</strong>
   content: February 2020 - Present
   media:
-    image: "/uploads/PM, Microsoft, Mark Ansell.jpeg"
+    image: "/uploads/Mark Ansell PM Microsoft.jpeg"
     alt_text: ''
 - template: content-feature
   block: feature-1
