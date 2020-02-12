@@ -37,28 +37,6 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Image-Based PID Control of a Ping Pong Ball
-  content: Final project for experimentation &amp; measurements course [ME103].<br><br>Performed
-    tests to understand if image-based PID control of a fan could achieve descent
-    of a ping pong ball to a specified height. Used camera, ball-in-tube setup, custom
-    clamp and LabView.
-  media:
-    image: "/uploads/Image-Based PID Control of a Ping Pong Ball - ME103 Final Report
-      - Mark Ansell.pdf"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Computing Pressure Flow Through a Human Heart
-  content: Used the Finite Element Method to compute the pressure field through a
-    human heart using measurements of the velocity field spanning an entire cardiac
-    cycle. Used FEniCS to solve.
-  media:
-    image: "/uploads/Assignment5WriteUp.pdf"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
   headline: 'SuperConductor: Smart IoT Baton'
   content: For the introduction to electronics for the internet of things course [EE49]
     at UC Berkeley, my partner Jonathan and I created a device to help conductors
@@ -81,6 +59,28 @@ page_sections:
     redesigned bottle.
   media:
     image: "/uploads/Clima Cup.jpeg"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Image-Based PID Control of a Ping Pong Ball
+  content: Final project for experimentation &amp; measurements course [ME103].<br><br>Performed
+    tests to understand if image-based PID control of a fan could achieve descent
+    of a ping pong ball to a specified height. Used camera, ball-in-tube setup, custom
+    clamp and LabView.
+  media:
+    image: "/uploads/Image-Based PID Control of a Ping Pong Ball - ME103 Final Report
+      - Mark Ansell.pdf"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Computing Pressure Flow Through a Human Heart
+  content: Used the Finite Element Method to compute the pressure field through a
+    human heart using measurements of the velocity field spanning an entire cardiac
+    cycle. Used FEniCS to solve.
+  media:
+    image: "/uploads/Assignment5WriteUp.pdf"
     alt_text: ''
 - template: content-feature
   block: feature-1
