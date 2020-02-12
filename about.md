@@ -25,7 +25,7 @@ page_sections:
   media_alignment: Right
   headline: About
   media:
-    image: "/uploads/2020/02/06/123.JPG"
+    image: "/uploads/UC Berkeley Graduation - Mark Ansell.jpeg"
     alt_text: ''
   content: "Hello! \U0001F44B Thanks for visiting my home on the internet. <br><br>I'm
     a mechanical engineer and new Program Manager at Microsoft Devices.<br><br>Originally
