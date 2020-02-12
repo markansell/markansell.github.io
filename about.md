@@ -28,15 +28,15 @@ page_sections:
     image: "/uploads/2020/02/06/123.JPG"
     alt_text: ''
   content: "Hello! \U0001F44B Thanks for visiting my home on the internet. <br><br>\U0001F4CD
-    Seattle, WA  ⬅️  Berkeley, CA  ⬅️ Glendale, CA<br><br>I'm Mark and I'm interested
+    Seattle, WA ⬅️ Berkeley, CA ⬅️ Glendale, CA<br><br>I'm Mark and I'm interested
     in building solutions to some of the world's most pressing problems. I've explored
     the intersection of engineering and business at UC Berkeley, hardware product
-    development at Apple and Microsoft, and public speaking through a <a href=\"https://youtu.be/578SvV5zI68\"
-    title=\"TEDx talk\">TEDx talk</a>.<br><br>I'm interested in innovative hardware
-    product development because, when I was younger, a computer allowed me to aspire
-    towards a career in engineering. Coming from a family of non-engineers and being
-    first in my family to attend college in the U.S., I would watch videos of leaders
-    who inspired me, such as Steve Jobs and Oprah Winfrey, as motivation.<br><br>Fostering
+    development at Apple and Microsoft, and public speaking through <a href=\"engineering.berkeley.edu/momentum\"
+    title=\"Momentum Speaker Series\">Momentum</a>.<br><br>I'm interested in innovative
+    hardware product development because, when I was younger, a computer allowed me
+    to aspire towards a career in engineering. Coming from a family of non-engineers
+    and being first in my family to attend college in the U.S., I would watch videos
+    of leaders who inspired me, such as Steve Jobs and Oprah Winfrey, as motivation.<br><br>Fostering
     an international perspective is important to me, as a child of two immigrants
     - my mom Armenian from Beirut, Lebanon and my dad a Kiwi from New Zealand. At
     Cal, I studied abroad for 5 months at Trinity College Dublin in Ireland. With
