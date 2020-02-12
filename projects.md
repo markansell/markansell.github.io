@@ -72,7 +72,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Clima Cup
+  headline: 'Clima Cup: Temperature-Regulating Thermos'
   content: For the Introduction to Product Development course [ME110] at UC Berkeley,
     my team and I tackled the problem of hot drinks staying too hot in thermoses.<br><br>Our
     solution is a temperature-regulating thermos that uses pre-frozen cooling rods
