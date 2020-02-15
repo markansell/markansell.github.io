@@ -24,7 +24,7 @@ page_sections:
   block: hero-2
   headline: hello,<br>I'm <strong>Mark</strong>
   content: "\U0001F468‍\U0001F4BB Program Manager at Microsoft Devices<br>\U0001F393
-    Mechanical engineering and business graduate from UC Berkeley<br>✌\U0001F3FC Identical
+    Mechanical Engineering &amp; Business graduate of UC Berkeley<br>✌\U0001F3FC Identical
     twin<br>\U0001F30E Global citizen"
   cta:
     enabled: true
