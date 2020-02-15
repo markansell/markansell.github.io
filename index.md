@@ -22,7 +22,7 @@ page_sections:
     button_text: Resume
 - template: hero-banner-w-image
   block: hero-2
-  headline: hello,<br>I'm <strong>Mark</strong>
+  headline: "hello \U0001F44B,<br>I'm <strong>Mark</strong>"
   content: Program Manager at Microsoft Devices, mechanical engineering and business
     graduate from UC Berkeley, identical twin, and global citizen.
   cta:
