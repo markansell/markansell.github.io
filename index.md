@@ -23,9 +23,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: hello,<br>I'm <strong>Mark</strong>
-  content: "Program Manager at Microsoft Devices \U0001F468‍\U0001F4BB, mechanical
-    engineering and business \U0001F393 from UC Berkeley, identical twin✌\U0001F3FC,
-    and global citizen\U0001F30E."
+  content: "\U0001F468‍\U0001F4BB Program Manager at Microsoft Devices<br>\U0001F393
+    Mechanical engineering and business, UC Berkeley<br>✌\U0001F3FC Identical twin<br>\U0001F30E
+    &amp; global citizen"
   cta:
     enabled: true
     url: "/about"
