@@ -22,9 +22,10 @@ page_sections:
     button_text: Resume
 - template: hero-banner-w-image
   block: hero-2
-  headline: "hello \U0001F44B,<br>I'm <strong>Mark</strong>"
-  content: "Program Manager at Microsoft Devices, mechanical engineering and business
-    \U0001F393 from UC Berkeley, identical twin, and global citizen."
+  headline: hello,<br>I'm <strong>Mark</strong>
+  content: "Program Manager at Microsoft Devices \U0001F468‍\U0001F4BB, mechanical
+    engineering and business \U0001F393 from UC Berkeley, identical twin✌\U0001F3FC,
+    and global citizen\U0001F30E."
   cta:
     enabled: true
     url: "/about"
