@@ -42,8 +42,8 @@ page_sections:
     Microsoft, I've travelled to Asia.<br><br>Finally, I believe strongly in integrating
     service into my life. In high school, I led an anti-bullying upperclassmen-freshman
     mentorship program; at Cal, I co-founded the <a href=\"www.engineering.berkeley.edu/momentum\"
-    title=\"Momentum Speaker Series\">Momentum Speaker Series</a>; I currently run
-    <a href=\"www.YouTube.com/TheTechTwins\" title=\"TheTechTwins\">TheTechTwins</a>
+    title=\"Momentum Speaker Series\">Momentum Speaker Series</a> (engineering.berkeley.edu/momentum);
+    I currently run <a href=\"www.YouTube.com/TheTechTwins\" title=\"TheTechTwins\">TheTechTwins</a>
     to inspire and prepare students to work in the tech industry."
 
 ---
