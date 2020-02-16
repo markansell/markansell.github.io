@@ -41,9 +41,9 @@ page_sections:
     months at Trinity College Dublin in Ireland and explored much of Europe. With
     Microsoft, I've travelled to Asia.<br><br>Finally, I believe strongly in integrating
     service into my life. In high school, I led an anti-bullying upperclassmen-freshman
-    mentorship program; at Cal, I co-founded the <a href=\"engineering.berkeley.edu/momentum\"
+    mentorship program; at Cal, I co-founded the <a href=\"www.engineering.berkeley.edu/momentum\"
     title=\"Momentum Speaker Series\">Momentum Speaker Series</a>; I currently run
-    <a href=\"YouTube.com/TheTechTwins\" title=\"TheTechTwins\">TheTechTwins</a> to
-    inspire and prepare students to work in the tech industry."
+    <a href=\"www.YouTube.com/TheTechTwins\" title=\"TheTechTwins\">TheTechTwins</a>
+    to inspire and prepare students to work in the tech industry."
 
 ---
