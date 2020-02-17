@@ -6,7 +6,7 @@ description: This website is modified from ubuild-jekyll, a Jekyll theme desgine
   to work with Forestry's Blocks feature. This theme provides a set of page-level
   components and a pre-configured Forestry Blocks UI that will empower content editors
   to construct their own webpages.
-baseurl: www.markansell.com
+baseurl: ''
 url: www.markansell.com
 defaults:
 - scope:
