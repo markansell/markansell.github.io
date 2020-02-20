@@ -25,7 +25,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Momentum Speaker Series
+  headline: Momentum Speaker Series<br><em>Co-founder</em>
   content: 'I co-created Berkeley Engineering''s 1st student speaker series, focused
     on building career momentum, after identifying a gap between upperclassmen who
     had knowledge about topics raining from internships to entrepreneurship to overcoming
