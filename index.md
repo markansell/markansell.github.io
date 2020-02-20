@@ -15,6 +15,8 @@ page_sections:
     link_text: Projects
   - link: "/experience"
     link_text: Experience
+  - link: "/leadership"
+    link_text: Leadership
   - link: "/contact"
     link_text: Contact
   cta:
@@ -36,7 +38,8 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: simple-footer
   block: footer-1
-  content: "Thanks for visiting! \U0001F60A"
+  content: "thanks for visiting! \U0001F60A / e: markgansell@gmail.com / <a href=\"www.linkedin.com/linkedin.com/in/markgansell\"
+    title=\"linkedin\">linkedin</a>"
 
 ---
 foo bar
