@@ -44,7 +44,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: The Tech Twins<br>Co-founder &amp; Content Creator
+  headline: The Tech Twins<br><em>Co-founder</em>
   content: 'I remember enrolling at UC Berkeley not understanding how my peers were
     getting jobs at these tech companies that I had previously only heard about in
     the news.<br><br>Coming from a family with no engineers and being a first-generation
