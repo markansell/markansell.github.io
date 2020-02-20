@@ -70,5 +70,13 @@ page_sections:
     enabled: true
     url: mailto:markgansell@gmail.com
     button_text: Email me to start a Momentum chapter at your university
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/Momentum, 2020, 02, 20.JPG"
+    alt_text: ''
+  headline: ''
+  content: ''
 
 ---
