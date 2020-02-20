@@ -55,7 +55,7 @@ page_sections:
     </span><br><br>My twin brother Andrew and I are sharing what we''ve learned through
     this online YouTube channel to inspire and prepare first generation students to
     break into and succeed in the tech industry.<br><br>Mission: change lives through
-    tech.<br><br>youtube.com/thetechtwins'
+    tech. More: youtube.com/thetechtwins'
   media:
     image: "/uploads/2020/02/06/IMG_0628.jpg"
     alt_text: ''
