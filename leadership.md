@@ -24,7 +24,7 @@ page_sections:
     button_text: Resume
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/Momentum, 2020, 02, 20.JPG"
+  background_image: ''
   image:
     image: ''
     alt_text: ''
