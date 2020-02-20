@@ -24,9 +24,30 @@ page_sections:
     button_text: Resume
 - template: hero-banner-w-image
   block: hero-2
+  headline: The Tech Twins
+  content: 'I remember enrolling at UC Berkeley not understanding how my peers were
+    getting jobs at these tech companies that I had previously only heard about in
+    the news.<br><br>Coming from a family with no engineers and being a first-generation
+    college student in the U.S., I coffee-chatted dozens upon dozens of people, completed
+    four years of engineering and business education at UC Berkeley, and am now working
+    full-time at Microsoft. Along the way, I interned at Microsoft (2x), Apple (1x),
+    and received an internship offer from Tesla. <br><br>My twin brother Andrew and
+    I are sharing what we''ve learned through this online YouTube channel to inspire
+    and prepare first generation students to break into and succeed in the tech industry.<br><br>Mission:
+    change lives through tech.'
+  cta:
+    enabled: true
+    button_text: Subscribe!
+    url: YouTube.com/thetechtwins
+  image:
+    image: "/uploads/2020/02/06/IMG_0628.jpg"
+    alt_text: ''
+  background_image: ''
+- template: hero-banner-w-image
+  block: hero-2
   background_image: ''
   image:
-    image: "/uploads/DSC_3567, 2020, 02, 20.JPG"
+    image: "/uploads/Momentum, 2020, 02, 20.JPG"
     alt_text: ''
   headline: Momentum Speaker Series
   content: 'My twin brother Andrew and I co-created Berkeley Engineering''s 1st student
@@ -49,30 +70,5 @@ page_sections:
     enabled: true
     url: markgansell@gmail.com
     button_text: Email me to start a Momentum chapter at your university
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/Momentum, 2020, 02, 20.JPG"
-  caption: ''
-- template: hero-banner-w-image
-  block: hero-2
-  headline: The Tech Twins
-  content: 'I remember enrolling at UC Berkeley not understanding how my peers were
-    getting jobs at these tech companies that I had previously only heard about in
-    the news.<br><br>Coming from a family with no engineers and being a first-generation
-    college student in the U.S., I coffee-chatted dozens upon dozens of people, completed
-    four years of engineering and business education at UC Berkeley, and am now working
-    full-time at Microsoft. Along the way, I interned at Microsoft (2x), Apple (1x),
-    and received an internship offer from Tesla. <br><br>My twin brother Andrew and
-    I are sharing what we''ve learned through this online YouTube channel to inspire
-    and prepare first generation students to break into and succeed in the tech industry.<br><br>Mission:
-    change lives through tech.'
-  cta:
-    enabled: true
-    button_text: Subscribe!
-    url: YouTube.com/thetechtwins
-  image:
-    image: "/uploads/2020/02/06/IMG_0628.jpg"
-    alt_text: ''
-  background_image: ''
 
 ---
