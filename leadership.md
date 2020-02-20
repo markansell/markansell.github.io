@@ -37,8 +37,8 @@ page_sections:
     change lives through tech.'
   cta:
     enabled: true
-    button_text: Subscribe!
-    url: YouTube.com/thetechtwins
+    button_text: Subscribe
+    url: 'link: www.YouTube.com/thetechtwins'
   image:
     image: "/uploads/2020/02/06/IMG_0628.jpg"
     alt_text: ''
