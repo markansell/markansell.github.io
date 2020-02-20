@@ -18,6 +18,8 @@ page_sections:
     link_text: Projects
   - link: "/experience"
     link_text: Experience
+  - link: "/leadership"
+    link_text: Leadership
   - link: "/contact"
     link_text: Contact
 - template: hero-banner-w-image
