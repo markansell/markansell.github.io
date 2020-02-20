@@ -39,6 +39,5 @@ page_sections:
   block: media-1
   image: "/uploads/Momentum, 2020, 02, 20.JPG"
   caption: ''
-published: false
 
 ---
