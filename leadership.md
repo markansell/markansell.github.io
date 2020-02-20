@@ -72,7 +72,7 @@ page_sections:
     button_text: Email me to start a Momentum chapter at your university
 - template: full-width-media-element
   block: media-1
-  image: ''
+  image: "/uploads/Momentum, 2020, 02, 20.JPG"
   caption: ''
 - template: signup-bar
   block: cta-bar
