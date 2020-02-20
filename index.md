@@ -18,7 +18,7 @@ page_sections:
   - link: "/contact"
     link_text: Contact
   cta:
-    url: "/uploads//2020/02/06/mark-ansell-resume-2019.pdf"
+    url: "/uploads/2020/02/06/mark-ansell-resume-2019.pdf"
     button_text: Resume
 - template: hero-banner-w-image
   block: hero-2
