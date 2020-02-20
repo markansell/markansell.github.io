@@ -26,7 +26,7 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: "/uploads/Momentum, 2020, 02, 20.JPG"
+    image: "/uploads/DSC_3567, 2020, 02, 20.JPG"
     alt_text: ''
   headline: Momentum Speaker Series
   content: 'My twin brother Andrew and I co-created Berkeley Engineering''s 1st student
@@ -49,6 +49,10 @@ page_sections:
     enabled: true
     url: mailto:markgansell@gmail.com
     button_text: Email me to start a Momentum chapter at your university
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/Momentum, 2020, 02, 20.JPG"
+  caption: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: The Tech Twins
