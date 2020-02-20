@@ -58,8 +58,9 @@ page_sections:
   headline: The Tech Twins
   content: 'I remember enrolling at UC Berkeley not understanding how my peers were
     getting jobs at these tech companies that I had previously only heard about in
-    the news. <br><br>I coffee-chatted dozens upon dozens of people, completed four
-    years of engineering and business education at UC Berkeley, and am now working
+    the news.<br><br>Coming from a family with no engineers and being a first-generation
+    college student in the U.S., I coffee-chatted dozens upon dozens of people, completed
+    four years of engineering and business education at UC Berkeley, and am now working
     full-time at Microsoft. Along the way, I interned at Microsoft (2x), Apple (1x),
     and received an internship offer from Tesla. <br><br>My twin brother Andrew and
     I are sharing what we''ve learned through this online YouTube channel to inspire
