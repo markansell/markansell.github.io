@@ -26,7 +26,7 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/IMG_3876, 2020, 02, 20.JPG"
     alt_text: ''
   headline: Momentum Speaker Series
   content: 'My twin brother Andrew and I co-created Berkeley Engineering''s 1st student
