@@ -44,18 +44,19 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: The Tech Twins
-  content: 'I remember enrolling at UC Berkeley not understanding how my peers were
-    getting jobs at these tech companies that I had previously only heard about in
-    the news.<br><br>Coming from a family with no engineers and being a first-generation
-    college student in the U.S., I coffee-chatted dozens upon dozens of people, completed
-    four years of engineering and business education at UC Berkeley, and am now working
-    full-time at Microsoft. Along the way, I interned at Microsoft (2x), Apple (1x),
-    and received an internship offer from Tesla.<span class="Apple-converted-space">
-    </span><br><br>My twin brother Andrew and I are sharing what we''ve learned through
-    this online YouTube channel to inspire and prepare first generation students to
-    break into and succeed in the tech industry.<br><br>Mission: change lives through
-    tech.'
+  headline: The Tech Twins<br>Co-founder &amp; Content Creator
+  content: 'TheTechTwins is a YouTube channel I co-created with my twin brother Andrew
+    to share insight, at scale, from working at Apple, Tesla, and Microsoft.<br><br>Coming
+    from a family with no engineers and being a first-generation college student in
+    the U.S., I didn''t know how to get a job in big tech. I coffee-chatted dozens
+    upon dozens of people, completed four years of engineering and business education
+    at UC Berkeley, and am now working full-time at Microsoft. Along the way, I interned
+    at Microsoft (2x), Apple (1x), and received an internship offer from Tesla.<span
+    class="Apple-converted-space"> </span><br><br>My twin brother Andrew and I are
+    sharing what we''ve learned to inspire and prepare first generation students to
+    break into and succeed in the tech industry. Our mission is to inform and inspire
+    students to pursue careers in tech, and empower them to use it to help solve society’s
+    biggest problems.<br><br>Mission: change lives through tech.'
   media:
     image: "/uploads/2020/02/06/IMG_0628.jpg"
     alt_text: ''
