@@ -46,9 +46,9 @@ page_sections:
     six speakers together and focuses on a common theme that will help the Berkeley
     Engineering community.</em>'
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: markgansell@gmail.com
+    button_text: Email me to start a Momentum chapter at your university
 - template: full-width-media-element
   block: media-1
   image: "/uploads/Momentum, 2020, 02, 20.JPG"
