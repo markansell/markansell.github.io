@@ -14,6 +14,8 @@ page_sections:
     link: "/projects"
   - link: "/experience"
     link_text: Experience
+  - link: "/leadership"
+    link_text: Leadership
   - link_text: Contact
     link: "/contact"
   cta:
