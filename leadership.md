@@ -68,7 +68,7 @@ page_sections:
     Engineering community.</em>'
   cta:
     enabled: true
-    url: markgansell@gmail.com
+    url: mailto:markgansell@gmail.com
     button_text: Email me to start a Momentum chapter at your university
 
 ---
