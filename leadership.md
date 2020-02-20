@@ -28,9 +28,11 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: Momentum Speaker Series - Berkeley Engineering
+  headline: Momentum Speaker Series
   content: My twin brother Andrew and I co-created Berkeley Engineering's 1st student
-    speaker series.
+    speaker series. After identifying a gap between upperclassmen who had knowledge
+    about topics raining from internships to entrepreneurship to overcoming tough
+    challenges, I <br><br>
   cta:
     enabled: false
     url: ''
