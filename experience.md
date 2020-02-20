@@ -54,5 +54,13 @@ page_sections:
   media:
     image: "/uploads/2020/02/06/IMG_3478.jpg"
     alt_text: ''
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Microsoft
+    content: Product Manager, Surface Pro
+  col_2:
+    headline: ''
+    content: ''
 
 ---
