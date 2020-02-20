@@ -38,8 +38,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: simple-footer
   block: footer-1
-  content: "thanks for visiting! \U0001F60A / <a href=\"www.linkedin.com/linkedin.com/in/markgansell\"
-    title=\"linkedin\">linkedin</a>"
+  content: "thanks for visiting! \U0001F60A"
 
 ---
 foo bar
