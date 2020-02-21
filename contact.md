@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/02/05/MA PW Logo Simple.png"
   cta:
     button_text: Resume
-    url: https://pngrdlsuofqswq.instant.forestry.io/uploads//2020/02/06/mark-ansell-resume-2019.pdf
+    url: "/uploads/2020/02/06/mark-ansell-resume-2019.pdf"
   navigation:
   - link: "/"
     link_text: Home

@@ -21,7 +21,7 @@ page_sections:
     link_text: Contact
   cta:
     button_text: Resume
-    url: https://pngrdlsuofqswq.instant.forestry.io/uploads//2020/02/06/mark-ansell-resume-2019.pdf
+    url: "/uploads/2020/02/06/mark-ansell-resume-2019.pdf"
 - template: content-feature
   block: feature-1
   media_alignment: Right
