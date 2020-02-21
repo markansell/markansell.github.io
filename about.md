@@ -35,7 +35,7 @@ page_sections:
     in mechanical engineering and business administration. I'm currently part of a
     small cohort of students admitted (2-4 years) early to Stanford University's MBA
     program via deferred admission. I currently reside in the greater Seattle area.<br><br>I'm
-    interested in blending engineering, business, and public policy to build solutions
+    interested in blending engineering, business, and public policy to create solutions
     to some of the world's most pressing problems, including climate change and economic
     stratification.<br><br>Coming from an international family has instilled in me
     the importance of fostering a diverse perspective. My mom is Armenian from Beirut,
