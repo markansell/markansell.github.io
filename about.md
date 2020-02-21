@@ -31,7 +31,7 @@ page_sections:
     alt_text: ''
   content: "Hello! \U0001F44B Thanks for visiting my home on the internet. <br><br>I'm
     a mechanical engineer and new Program Manager at Microsoft Devices.<br><br>Originally
-    from Los Angeles, CA, I attended UC Berkeley, where I studied simultaneous degrees
+    from Los Angeles, CA, I attended UC Berkeley, where I earned simultaneous degrees
     in mechanical engineering and business administration. I'm currently part of a
     small cohort of students admitted (2-4 years) early to Stanford University's MBA
     program via deferred admission. I currently reside in the greater Seattle area.<br><br>I'm
