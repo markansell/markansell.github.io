@@ -46,8 +46,9 @@ page_sections:
     impact on my life, so I could create these magical experiences for others.<br><br>Along
     the way, I have focused on creating opportunities for others to thrive. In high
     school, I led an anti-bullying upperclassmen-freshman mentorship program. At Cal,
-    I co-founded the first student speaker series in the College of Engineering, with
-    a goal of helping students gain career momentum. I currently run TheTechTwins,
+    I co-founded <a href=\"/leadership\" title=\"Momentum\">Momentum</a> - the first
+    student speaker series in the College of Engineering - with a goal of helping
+    students gain career momentum. I currently run <a href=\"/leadership\" title=\"TheTechTwins\">TheTechTwins</a>,
     an informational YouTube channel to inspire and prepare students to work in the
     tech industry.<br><br>Originally from Los Angeles, CA, I attended UC Berkeley,
     where I earned simultaneous degrees in mechanical engineering and business administration.
