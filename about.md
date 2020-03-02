@@ -52,9 +52,7 @@ page_sections:
     an informational YouTube channel to inspire and prepare students to work in the
     tech industry.<br><br>Originally from Los Angeles, CA, I attended UC Berkeley,
     where I earned simultaneous degrees in mechanical engineering and business administration.
-    I studied abroad for 5 months at Trinity College Dublin in Ireland. I’m currently
-    part of a small cohort of students admitted (2-4 years) early to Stanford University's
-    MBA program via deferred admission. I currently reside in the greater Seattle
-    area."
+    I studied abroad for 5 months at Trinity College Dublin in Ireland. I currently
+    reside in the greater Seattle area."
 
 ---
