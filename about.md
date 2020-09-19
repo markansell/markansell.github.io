@@ -53,6 +53,6 @@ page_sections:
     tech industry.<br><br>Originally from Los Angeles, CA, I attended UC Berkeley,
     where I earned simultaneous degrees in mechanical engineering and business administration.
     I studied abroad for 5 months at Trinity College Dublin in Ireland. I currently
-    reside in the greater Seattle area."
+    reside in the greater Seattle area and am deferring admission to Stanford GSB."
 
 ---

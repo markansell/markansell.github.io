@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Home
-date: 2020-02-06 03:35:00 +0000
+date: 2020-02-06T03:35:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -26,8 +26,9 @@ page_sections:
   block: hero-2
   headline: hello,<br>I'm <strong>Mark</strong>
   content: "\U0001F4CD Seattle, WA<br>\U0001F468‍\U0001F4BB Program Manager at Microsoft
-    Devices<br>\U0001F393 Mechanical Engineering &amp; Business graduate of UC Berkeley<br>✌\U0001F3FC
-    Identical twin<br>\U0001F30E Global citizen"
+    Devices<br>\U0001F393 Mechanical Engineering &amp; Business graduate of UC Berkeley<br>\U0001F4DA
+    Deferred admit @ Stanford GSB<br>✌\U0001F3FC Identical twin<br>\U0001F30E Global
+    citizen"
   cta:
     enabled: true
     url: "/about"
